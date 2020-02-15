@@ -42,5 +42,8 @@ Upgrading of skills, courses:
  <p> Before graduating from university, I worked in trade and sales. I also took part in two exhibitions Expo-Russia Belarus 2015 and Expo-Russia Belarus 2017 as an organizer. After graduation I worked as a German translator for an IT-company. My duties included not only translation of Internet resources, but also consulting our German-speaking clients. 
 In spite of my extensive experience in client work and consulting, I want to develop my programming skills and work in this field.
  </p>
+ <br>
+ <h2> My Code: </h2>
+ <img src="" alt="альтернативный текст" />
  </body>
 </html>
