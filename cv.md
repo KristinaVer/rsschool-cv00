@@ -44,6 +44,7 @@ In spite of my extensive experience in client work and consulting, I want to dev
  </p>
  <br>
  <h2> My Code: </h2>
- <img src="" alt="альтернативный текст" />
+ <img src= "code1.jpg" height= 300x; />
+ <img src= "code2.jpg" height= 300x; />
  </body>
 </html>
